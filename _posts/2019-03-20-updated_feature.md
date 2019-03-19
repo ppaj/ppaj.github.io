@@ -1,4 +1,4 @@
-Seminggu setelah kelahiran baby blog pepeaje..now include brand new feature..
+Seminggu setelah kelahiran baby_blog pepeaje..now it includes brand new feature..
 
 ![_config.yml]({{ site.baseurl }}/images/comment_image.jpg)
 
