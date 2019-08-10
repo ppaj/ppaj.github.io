@@ -6,11 +6,7 @@
 name: PPAJ__B_L_O_G
 
 # Short bio or description (displayed in the header)
-description: A place for all pepeaje activities ...Have a nice life !!! :)
-
-author:
- name: andy
- email: pepeaje2018@gmail.com
+description: A place for all pepeaje activities ...Have a nice life !
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
